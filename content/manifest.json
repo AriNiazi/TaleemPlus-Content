@@ -7,66 +7,6 @@
       "className": "Pre-1",
       "file": "pre1.json",
       "contentVersion": 1
-    },
-    {
-      "classNumber": 1,
-      "className": "Class 1",
-      "file": "class1.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 2,
-      "className": "Class 2",
-      "file": "class2.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 3,
-      "className": "Class 3",
-      "file": "class3.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 4,
-      "className": "Class 4",
-      "file": "class4.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 5,
-      "className": "Class 5",
-      "file": "class5.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 6,
-      "className": "Class 6",
-      "file": "class6.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 7,
-      "className": "Class 7",
-      "file": "class7.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 8,
-      "className": "Class 8",
-      "file": "class8.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 9,
-      "className": "Class 9",
-      "file": "class9.json",
-      "contentVersion": 1
-    },
-    {
-      "classNumber": 10,
-      "className": "Class 10",
-      "file": "class10.json",
-      "contentVersion": 1
     }
   ]
 }
