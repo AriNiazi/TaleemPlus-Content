@@ -1,5 +1,12 @@
 {
-  "contentVersion": 1,
+  "manifestVersion": 1,
   "board": "Punjab Curriculum and Textbook Board",
-  "classes": []
+  "classes": [
+    {
+      "classNumber": 0,
+      "className": "Pre-1",
+      "file": "pre1.json",
+      "contentVersion": 1
+    }
+  ]
 }
