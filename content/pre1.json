@@ -1,5 +1,5 @@
 {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "board": "Punjab Curriculum and Textbook Board",
   "classes": [
     {
@@ -14,7 +14,7 @@
               "chapterNumber": 1,
               "questions": [
                 {
-                  "question": "What can you tell othres when introducing yourself ?",
+                  "question": "What can you tell others when introducing yourself ?",
                   "options": [
                     "A flower",
                     "Your name",
