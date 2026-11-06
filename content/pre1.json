@@ -1,6 +1,5 @@
-
 {
-  "contentVersion": 1,
+  "contentVersion": 2,
   "board": "Punjab Curriculum and Textbook Board",
   "classes": [
     {
@@ -16,30 +15,56 @@
               "questions": [
                 {
                   "question": "What can you tell others when introducing yourself?",
-                  "options": ["Your name", "A mountain", "A river", "A book"],
-                  "correctAnswer": 0
+                  "options": [
+                    "A mountain",
+                    "Your name",
+                    "A river",
+                    "A book"
+                  ],
+                  "correctAnswer": 1
                 },
                 {
                   "question": "Which topic is about your personal likes?",
-                  "options": ["Things you enjoy", "Weather", "Roads", "Buildings"],
-                  "correctAnswer": 0
+                  "options": [
+                    "Buildings",
+                    "Weather",
+                    "Roads",
+                    "Things you enjoy"
+                  ],
+                  "correctAnswer": 3
                 },
                 {
                   "question": "Which person may be part of your life as a friend?",
-                  "options": ["A friend", "A stranger only", "A mountain", "A tree"],
-                  "correctAnswer": 0
+                  "options": [
+                    "A mountain",
+                    "A stranger only",
+                    "A friend",
+                    "A tree"
+                  ],
+                  "correctAnswer": 2
                 },
                 {
                   "question": "Which topic helps you describe yourself?",
-                  "options": ["Your appearance", "The weather", "A river", "A road"],
+                  "options": [
+                    "Your appearance",
+                    "The weather",
+                    "A river",
+                    "A road"
+                  ],
                   "correctAnswer": 0
                 },
                 {
                   "question": "What can you talk about when describing yourself?",
-                  "options": ["Your likes and dislikes", "Only numbers", "Only buildings", "Only vehicles"],
-                  "correctAnswer": 0
+                  "options": [
+                    "Only numbers",
+                    "Your likes and dislikes",
+                    "Only buildings",
+                    "Only vehicles"
+                  ],
+                  "correctAnswer": 1
                 }
-              ]
+              ],
+              "notes": []
             },
             {
               "chapterName": "My Home",
@@ -47,55 +72,106 @@
               "questions": [
                 {
                   "question": "Which room is commonly used for sleeping?",
-                  "options": ["Bedroom", "Kitchen", "Washroom", "Living room"],
-                  "correctAnswer": 0
+                  "options": [
+                    "Living room",
+                    "Kitchen",
+                    "Washroom",
+                    "Bedroom"
+                  ],
+                  "correctAnswer": 3
                 },
                 {
                   "question": "Where do we prepare food?",
-                  "options": ["Bedroom", "Kitchen", "Living room", "Washroom"],
+                  "options": [
+                    "Bedroom",
+                    "Kitchen",
+                    "Living room",
+                    "Washroom"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "Which room is commonly used for sitting with guests?",
-                  "options": ["Kitchen", "Bedroom", "Living room", "Washroom"],
+                  "options": [
+                    "Kitchen",
+                    "Bedroom",
+                    "Living room",
+                    "Washroom"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "Where do we usually take a bath?",
-                  "options": ["Living room", "Washroom", "Bedroom", "Kitchen"],
+                  "options": [
+                    "Living room",
+                    "Washroom",
+                    "Bedroom",
+                    "Kitchen"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "Which place in a home is used for cooking?",
-                  "options": ["Kitchen", "Bedroom", "Living room", "Garden"],
-                  "correctAnswer": 0
+                  "options": [
+                    "Garden",
+                    "Bedroom",
+                    "Living room",
+                    "Kitchen"
+                  ],
+                  "correctAnswer": 3
                 },
                 {
                   "question": "Which room is used for cooking meals?",
-                  "options": ["Bedroom", "Kitchen", "Washroom", "Living room"],
+                  "options": [
+                    "Bedroom",
+                    "Kitchen",
+                    "Washroom",
+                    "Living room"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "Where can a family sit together and relax?",
-                  "options": ["Living room", "Washroom", "Store room", "Kitchen"],
+                  "options": [
+                    "Living room",
+                    "Washroom",
+                    "Store room",
+                    "Kitchen"
+                  ],
                   "correctAnswer": 0
                 },
                 {
                   "question": "Which room is mainly used for sleeping at night?",
-                  "options": ["Kitchen", "Bedroom", "Living room", "Dining room"],
+                  "options": [
+                    "Kitchen",
+                    "Bedroom",
+                    "Living room",
+                    "Dining room"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "How should we keep our home?",
-                  "options": ["Dirty", "Untidy", "Clean", "Messy"],
+                  "options": [
+                    "Dirty",
+                    "Untidy",
+                    "Clean",
+                    "Messy"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "Which place is part of a home?",
-                  "options": ["Bedroom", "Airport", "Market", "Bus stop"],
+                  "options": [
+                    "Bedroom",
+                    "Airport",
+                    "Market",
+                    "Bus stop"
+                  ],
                   "correctAnswer": 0
                 }
-              ]
+              ],
+              "notes": []
             },
             {
               "chapterName": "My Family",
@@ -103,126 +179,227 @@
               "questions": [
                 {
                   "question": "Who is the father of our father or mother?",
-                  "options": ["Brother", "Grandfather", "Uncle", "Father"],
+                  "options": [
+                    "Brother",
+                    "Grandfather",
+                    "Uncle",
+                    "Father"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "Who is the mother in a family?",
-                  "options": ["Sister", "Grandmother", "Mother", "Aunt"],
+                  "options": [
+                    "Sister",
+                    "Grandmother",
+                    "Mother",
+                    "Aunt"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "Which of these is a family member?",
-                  "options": ["Brother", "Teacher", "Shopkeeper", "Driver"],
-                  "correctAnswer": 0
+                  "options": [
+                    "Driver",
+                    "Teacher",
+                    "Shopkeeper",
+                    "Brother"
+                  ],
+                  "correctAnswer": 3
                 },
                 {
                   "question": "What do we do with our family members?",
-                  "options": ["Hate them", "Forget them", "Love them", "Avoid them"],
+                  "options": [
+                    "Hate them",
+                    "Forget them",
+                    "Love them",
+                    "Avoid them"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "Some families are big and some families are ____.",
-                  "options": ["Small", "Tall", "Fast", "Short"],
+                  "options": [
+                    "Small",
+                    "Tall",
+                    "Fast",
+                    "Short"
+                  ],
                   "correctAnswer": 0
                 }
-              ]
+              ],
+              "notes": []
             },
-
             {
               "chapterName": "My School",
               "chapterNumber": 4,
               "questions": [
                 {
                   "question": "Where do children read books in school?",
-                  "options": ["Playground", "Library", "Classroom", "Garden"],
+                  "options": [
+                    "Playground",
+                    "Library",
+                    "Classroom",
+                    "Garden"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "Where do teachers teach students?",
-                  "options": ["Classroom", "Library", "Playground", "Kitchen"],
+                  "options": [
+                    "Classroom",
+                    "Library",
+                    "Playground",
+                    "Kitchen"
+                  ],
                   "correctAnswer": 0
                 },
                 {
                   "question": "What should we keep clean at school?",
-                  "options": ["Only our books", "Only our bags", "School and surroundings", "Only our desks"],
+                  "options": [
+                    "Only our books",
+                    "Only our bags",
+                    "School and surroundings",
+                    "Only our desks"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "How should we treat school property?",
-                  "options": ["Damage it", "Take care of it", "Throw it away", "Ignore it"],
-                  "correctAnswer": 1
+                  "options": [
+                    "Damage it",
+                    "Ignore it",
+                    "Throw it away",
+                    "Take care of it"
+                  ],
+                  "correctAnswer": 3
                 },
                 {
                   "question": "Which place is commonly found in a school?",
-                  "options": ["Hospital", "Airport", "Classroom", "Railway station"],
+                  "options": [
+                    "Hospital",
+                    "Airport",
+                    "Classroom",
+                    "Railway station"
+                  ],
                   "correctAnswer": 2
                 }
-              ]
+              ],
+              "notes": []
             },
-
             {
               "chapterName": "My Country",
               "chapterNumber": 5,
               "questions": [
                 {
                   "question": "Which country is described in the poem?",
-                  "options": ["India", "Pakistan", "China", "Turkey"],
+                  "options": [
+                    "India",
+                    "Pakistan",
+                    "China",
+                    "Turkey"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "What colour are the fields in the poem?",
-                  "options": ["Green", "Red", "Black", "White"],
+                  "options": [
+                    "Green",
+                    "Red",
+                    "Black",
+                    "White"
+                  ],
                   "correctAnswer": 0
                 },
                 {
                   "question": "How are the streams described?",
-                  "options": ["Dirty", "Dry", "Clean", "Hot"],
+                  "options": [
+                    "Dirty",
+                    "Dry",
+                    "Clean",
+                    "Hot"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "How are the people of Pakistan described?",
-                  "options": ["Lazy and unkind", "Brave and kind", "Angry and rude", "Weak and afraid"],
+                  "options": [
+                    "Lazy and unkind",
+                    "Brave and kind",
+                    "Angry and rude",
+                    "Weak and afraid"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "What do the people of Pakistan help?",
-                  "options": ["Only themselves", "Others", "Nobody", "Animals only"],
-                  "correctAnswer": 1
+                  "options": [
+                    "Others",
+                    "Only themselves",
+                    "Nobody",
+                    "Animals only"
+                  ],
+                  "correctAnswer": 0
                 }
-              ]
+              ],
+              "notes": []
             },
-
             {
               "chapterName": "My Day",
               "chapterNumber": 6,
               "questions": [
                 {
                   "question": "What does the child do after waking up?",
-                  "options": ["Prays", "Sleeps", "Plays", "Eats dinner"],
+                  "options": [
+                    "Prays",
+                    "Sleeps",
+                    "Plays",
+                    "Eats dinner"
+                  ],
                   "correctAnswer": 0
                 },
                 {
                   "question": "What does the child brush?",
-                  "options": ["Hair", "Shoes", "Teeth", "Clothes"],
+                  "options": [
+                    "Hair",
+                    "Shoes",
+                    "Teeth",
+                    "Clothes"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "What does the child eat in the morning?",
-                  "options": ["Lunch", "Breakfast", "Dinner", "Supper"],
-                  "correctAnswer": 1
+                  "options": [
+                    "Lunch",
+                    "Supper",
+                    "Dinner",
+                    "Breakfast"
+                  ],
+                  "correctAnswer": 3
                 },
                 {
                   "question": "Where does the child go every day?",
-                  "options": ["Market", "Hospital", "School", "Airport"],
+                  "options": [
+                    "Market",
+                    "Hospital",
+                    "School",
+                    "Airport"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "What activities are mentioned in the poem?",
-                  "options": ["Study, play and sleep", "Only shopping", "Only cooking", "Only travelling"],
+                  "options": [
+                    "Study, play and sleep",
+                    "Only shopping",
+                    "Only cooking",
+                    "Only travelling"
+                  ],
                   "correctAnswer": 0
                 }
-              ]
+              ],
+              "notes": []
             },
             {
               "chapterName": "Weather",
@@ -230,37 +407,60 @@
               "questions": [
                 {
                   "question": "Which weather has many clouds in the sky?",
-                  "options": ["Sunny", "Cloudy", "Windy", "Rainy"],
+                  "options": [
+                    "Sunny",
+                    "Cloudy",
+                    "Windy",
+                    "Rainy"
+                  ],
                   "correctAnswer": 1
                 },
                 {
                   "question": "When does the wind blow strongly?",
-                  "options": ["Windy weather", "Sunny weather", "Cloudy weather", "Rainy weather"],
+                  "options": [
+                    "Windy weather",
+                    "Sunny weather",
+                    "Cloudy weather",
+                    "Rainy weather"
+                  ],
                   "correctAnswer": 0
                 },
                 {
                   "question": "In which weather does rain fall?",
-                  "options": ["Sunny", "Windy", "Rainy", "Cloudy"],
+                  "options": [
+                    "Sunny",
+                    "Windy",
+                    "Rainy",
+                    "Cloudy"
+                  ],
                   "correctAnswer": 2
                 },
                 {
                   "question": "Which weather gives us bright sunshine?",
-                  "options": ["Rainy", "Cloudy", "Windy", "Sunny"],
+                  "options": [
+                    "Rainy",
+                    "Cloudy",
+                    "Windy",
+                    "Sunny"
+                  ],
                   "correctAnswer": 3
                 },
                 {
                   "question": "Which of these is a type of weather?",
-                  "options": ["Rainy", "Kitchen", "Classroom", "Library"],
+                  "options": [
+                    "Rainy",
+                    "Kitchen",
+                    "Classroom",
+                    "Library"
+                  ],
                   "correctAnswer": 0
                 }
-              ]
+              ],
+              "notes": []
             }
-
-
           ]
         }
       ]
     }
   ]
 }
-
